@@ -1,0 +1,12 @@
+openapi: 3.0.0
+info:
+  title: Event Publisher and Subscriber API
+  description: "# News Content API  Our new News Content API is designed to deliver\
+    \ real-time news data in a structured and machine-readable JSON format, leveraging\
+    \ the power of the IPTC ninjs schema 2.2"
+  version: "1.0"
+servers:
+- url: https://virtserver.swaggerhub.com/BAMITESH_2/LPX_API_EVENT_PUB_SUB/1.0
+  description: SwaggerHub API Auto Mocking
+paths: {}
+components: {}
